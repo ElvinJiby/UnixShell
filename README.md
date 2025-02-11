@@ -1,4 +1,4 @@
-Made as part of a COMP20200 Unix Programming assignment in my 2nd Year of Computer Science.<br/>
+Made as part of a Unix Programming assignment in my 2nd Year of Computer Science.<br/>
 Made by Elvin Jiby in CLion<br/>
 31/03/2024<br/>
 <br/>
